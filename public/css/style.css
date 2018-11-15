@@ -1,0 +1,16 @@
+body {
+  padding-top: 54px;
+  padding-right:10px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+.card{
+	margin-top:15px;
+}
+#paginacija{
+    font-size:25px;    
+}
